@@ -42,8 +42,8 @@ const user2 = {
     email: "some@gmail.com",
     fullname: {
         userfullname: {
-            fname: "Sneha",
-            lname: "Paul"
+            fname: "Neha",
+            lname: "Pal"
         }
     }
 }
@@ -79,4 +79,5 @@ const course = {
 }
 
 const {Instructor: inst} = course
+
 console.log(inst);
